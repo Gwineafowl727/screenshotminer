@@ -12,3 +12,6 @@ On desktop sentence mining setups, you can use [ShareX](https://getsharex.com/) 
 * `Mining Timeout (ms)`: After ScreenshotMiner detects a new card, you have this many milliseconds to take a screenshot for insertion.
 * `Redo Timeout (ms)`: You have this many milliseconds to take a new screenshot to override the previous. This is also the window of time you have to crop your screenshot if you choose to.
 * `Auto-delete Screenshots`: You must grant permission to delete the new image from your gallery right after it has been added to AnkiDroid.
+
+### Possible future development
+* Add a customizable feature to let users screenshot or take a picture before card detected and have app OCR text and output it to a Firefox page for Yomitan mining
